@@ -1,3 +1,3 @@
 # Trie-Tree
 
-read final2
+read final2.pdf
